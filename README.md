@@ -55,10 +55,3 @@ The dataset contains details for domestic flights in India, including:
 | Best Model     | Random Forest |
 
 ---
-
-## 🧪 How to Run the Project
-
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/Harshil-Madaan/FlyPriceAI.git
-   cd FlyPriceAI
